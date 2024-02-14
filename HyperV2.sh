@@ -11,7 +11,7 @@ check_command_status() {
 # Variables declaration
 REQUIRED_PACKAGES="git libpulse-dev autoconf m4 intltool build-essential dpkg-dev libtool libsndfile1-dev libspeexdsp-dev libudev-dev"
 PULSEAUDIO_GIT_URL="https://github.com/neutrinolabs/pulseaudio-module-xrdp.git"
-ORIGINAL_DIR="/usr/local/bin/"
+ORIGINAL_DIR="/home/admin"
 
 # Function to execute commands in a terminal
 run_in_terminal() {
